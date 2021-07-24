@@ -1,0 +1,29 @@
+.heading{
+    color: white;
+    background-color: black;
+    font-size: large;
+}
+.col-1{
+    font-weight: bold;
+    color: black;
+    background-color: skyblue;
+}
+.col-2{
+    background-color: rgb(252, 231, 228) ;
+    font-weight: bolder;
+    font-size: large;
+    text-align: center;
+}
+.col-3{
+    background-color: rgb(117, 238, 232);
+    font-style: italic;
+}
+.col-4{
+    background-color: lavender;
+}
+table{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.heading{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
